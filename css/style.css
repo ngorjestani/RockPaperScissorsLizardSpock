@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --Gainsboro: #e0e0e2;
+    --Gunmetal: #1B2A37;
+    --Middle-Blue-Green: #81D2C7;
+    --Light-Periwinkle: #b5bad0;
+    --Shadow-Blue: #52688E;
+    --Rich-Black: #070A0E;
+}
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: var(--Gainsboro);
+}
+
+.wrapper {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.header-font {
+    font-family: 'Goldman', cursive;
+    color: var(--Shadow-Blue)
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.game-img {
+    color: var(--Rich-Black);
+    text-shadow: 2px 2px 1px #999999;
+    display: inline-block;
+    margin: .75em;
+    cursor: pointer;
+}
+
+.game-img:hover {
+    text-shadow: 4px 4px 2px #999999;
+}
+
+.rules {
+    width: 40%;
+    text-align: center;
+}
+
+.game-board {
+    width: 60%;
+}
+
+button {
+    padding: 1em;
+    border: 1px solid var(--Middle-Blue-Green);
+    background-color: var(--Rich-Black);
+    color: var(--Middle-Blue-Green);
+    box-shadow: 2px 2px 1px #999999;
+    font-size: 1em;
+    letter-spacing: .1em;
+    font-weight: bold;
+}
+
+button:focus {
+    box-shadow: none;
+}
+
+.player-win {
+    color: green;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.computer-win {
+    color: red;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#draw-message {
+    display: none;
+}
+
+#message-area {
+    margin: 2em;
+    font-weight: bold;
+    display: none;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
+}
+
+
+
+
