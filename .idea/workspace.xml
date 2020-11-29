@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d743613-d182-4608-8113-5861ed7a8765" name="Default Changelist" comment="" />
+    <list default="true" id="6d743613-d182-4608-8113-5861ed7a8765" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1klUM0288lJ6HmAHERjmtRkOCJ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -42,22 +49,46 @@
       <workItem from="1606520310313" duration="6730000" />
       <workItem from="1606535299168" duration="892000" />
       <workItem from="1606536227994" duration="8431000" />
-      <workItem from="1606577334957" duration="2335000" />
+      <workItem from="1606577334957" duration="3324000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1606589052711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606589052711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606588875762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1606588875762" />
     <state x="2540" y="260" key="FileChooserDialogImpl" timestamp="1606350623387">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2540" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606350623387" />
+    <state x="833" y="418" key="Github.ShareDialog" timestamp="1606589097451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1606589097451" />
     <state x="311" y="72" key="SettingsEditor" timestamp="1606536199852">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="311" y="72" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1606536199852" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1606589072677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1606589072677" />
     <state x="494" y="206" key="run.anything.popup" timestamp="1606543954376">
       <screen x="0" y="0" width="1676" height="902" />
     </state>

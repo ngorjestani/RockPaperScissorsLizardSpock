@@ -43,7 +43,7 @@ $(document).ready(function () {
             $("#message-area").show();
 
             if (playerSelection === computerSelection) {
-                $("draw-message").show();
+                $("#draw-message").show();
             } else {
                 compareSelections(playerSelection, computerSelection);
                 $("#player-score").text(playerScore);
